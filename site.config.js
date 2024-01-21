@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Front-end-first",
-    description: "welcome to frontend-first!",
+    title: "Frontend First",
+    description: "welcome to frontend first!",
   },
 
   // CONFIG configration (required)
